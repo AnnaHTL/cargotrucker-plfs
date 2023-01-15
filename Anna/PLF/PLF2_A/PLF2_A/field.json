@@ -1,0 +1,128 @@
+{
+  "Width": 7,
+  "Height": 5,
+  "Cells": [
+    [
+      {
+        "Kind": 0
+      },
+      {
+        "Kind": 0
+      },
+      {
+        "Kind": 0
+      },
+      {
+        "Kind": 0
+      },
+      {
+        "Kind": 0
+      },
+      {
+        "Kind": 0
+      },
+      {
+        "Kind": 0
+      }
+    ],
+    [
+      {
+        "Kind": 0
+      },
+      {
+        "Kind": 0
+      },
+      {
+        "Kind": 0
+      },
+      {
+        "Kind": 0
+      },
+      {
+        "Kind": 0
+      },
+      {
+        "Kind": 0
+      },
+      {
+        "Kind": 0
+      }
+    ],
+    [
+      {
+        "Kind": 0
+      },
+      {
+        "Kind": 0
+      },
+      {
+        "Kind": 0
+      },
+      {
+        "Kind": 0
+      },
+      {
+        "Kind": 0
+      },
+      {
+        "Kind": 0
+      },
+      {
+        "Kind": 0
+      }
+    ],
+    [
+      {
+        "Kind": 0
+      },
+      {
+        "Kind": 0
+      },
+      {
+        "Kind": 0
+      },
+      {
+        "Kind": 0
+      },
+      {
+        "Kind": 0
+      },
+      {
+        "Kind": 0
+      },
+      {
+        "Kind": 0
+      }
+    ],
+    [
+      {
+        "Kind": 0
+      },
+      {
+        "Kind": 0
+      },
+      {
+        "Kind": 0
+      },
+      {
+        "Kind": 0
+      },
+      {
+        "Kind": 0
+      },
+      {
+        "Kind": 0
+      },
+      {
+        "Kind": 0
+      }
+    ]
+  ],
+  "Truck": {
+    "Row": 4,
+    "Column": 0,
+    "Direction": 1,
+    "BoxCount": 50,
+    "Tooltip": "Truck facing East with 50 boxes."
+  }
+}

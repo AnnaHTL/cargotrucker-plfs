@@ -1,0 +1,17 @@
+C:\Users\annas\Schule\Courses\SEW\SEW1_Cargo\PLFs\PLF2 Anna\PLF2_A\PLF2_A\bin\Debug\net6.0\PLF2_A.exe
+C:\Users\annas\Schule\Courses\SEW\SEW1_Cargo\PLFs\PLF2 Anna\PLF2_A\PLF2_A\bin\Debug\net6.0\PLF2_A.deps.json
+C:\Users\annas\Schule\Courses\SEW\SEW1_Cargo\PLFs\PLF2 Anna\PLF2_A\PLF2_A\bin\Debug\net6.0\PLF2_A.runtimeconfig.json
+C:\Users\annas\Schule\Courses\SEW\SEW1_Cargo\PLFs\PLF2 Anna\PLF2_A\PLF2_A\bin\Debug\net6.0\PLF2_A.dll
+C:\Users\annas\Schule\Courses\SEW\SEW1_Cargo\PLFs\PLF2 Anna\PLF2_A\PLF2_A\bin\Debug\net6.0\PLF2_A.pdb
+C:\Users\annas\Schule\Courses\SEW\SEW1_Cargo\PLFs\PLF2 Anna\PLF2_A\PLF2_A\bin\Debug\net6.0\CargoTrucker.Client.dll
+C:\Users\annas\Schule\Courses\SEW\SEW1_Cargo\PLFs\PLF2 Anna\PLF2_A\PLF2_A\obj\Debug\net6.0\PLF2_A.csproj.AssemblyReference.cache
+C:\Users\annas\Schule\Courses\SEW\SEW1_Cargo\PLFs\PLF2 Anna\PLF2_A\PLF2_A\obj\Debug\net6.0\PLF2_A.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\annas\Schule\Courses\SEW\SEW1_Cargo\PLFs\PLF2 Anna\PLF2_A\PLF2_A\obj\Debug\net6.0\PLF2_A.AssemblyInfoInputs.cache
+C:\Users\annas\Schule\Courses\SEW\SEW1_Cargo\PLFs\PLF2 Anna\PLF2_A\PLF2_A\obj\Debug\net6.0\PLF2_A.AssemblyInfo.cs
+C:\Users\annas\Schule\Courses\SEW\SEW1_Cargo\PLFs\PLF2 Anna\PLF2_A\PLF2_A\obj\Debug\net6.0\PLF2_A.csproj.CoreCompileInputs.cache
+C:\Users\annas\Schule\Courses\SEW\SEW1_Cargo\PLFs\PLF2 Anna\PLF2_A\PLF2_A\obj\Debug\net6.0\PLF2_A.csproj.CopyComplete
+C:\Users\annas\Schule\Courses\SEW\SEW1_Cargo\PLFs\PLF2 Anna\PLF2_A\PLF2_A\obj\Debug\net6.0\PLF2_A.dll
+C:\Users\annas\Schule\Courses\SEW\SEW1_Cargo\PLFs\PLF2 Anna\PLF2_A\PLF2_A\obj\Debug\net6.0\refint\PLF2_A.dll
+C:\Users\annas\Schule\Courses\SEW\SEW1_Cargo\PLFs\PLF2 Anna\PLF2_A\PLF2_A\obj\Debug\net6.0\PLF2_A.pdb
+C:\Users\annas\Schule\Courses\SEW\SEW1_Cargo\PLFs\PLF2 Anna\PLF2_A\PLF2_A\obj\Debug\net6.0\PLF2_A.genruntimeconfig.cache
+C:\Users\annas\Schule\Courses\SEW\SEW1_Cargo\PLFs\PLF2 Anna\PLF2_A\PLF2_A\obj\Debug\net6.0\ref\PLF2_A.dll

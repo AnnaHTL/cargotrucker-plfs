@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "PLF2_A/1.0.0": {
+        "dependencies": {
+          "CargoTrucker.Client": "1.0.0.0"
+        },
+        "runtime": {
+          "PLF2_A.dll": {}
+        }
+      },
+      "CargoTrucker.Client/1.0.0.0": {
+        "runtime": {
+          "CargoTrucker.Client.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PLF2_A/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CargoTrucker.Client/1.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
